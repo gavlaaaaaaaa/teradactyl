@@ -1,0 +1,10 @@
+#abcd	10/11/2016 12:00	click	02:00:00	sarfari	10.10.10.10	UK	english	mobile	http://awebsite.com	3840x2160	cat	2	cat-pic
+#efgh	10/11/2016 13:00	hover	00:43:00	explorer	10.10.10.10	UK	english	desktop	http://awebsite.com	3840x2160	dog	1	dog-pic
+#ijkl	10/01/2016 14:00	click	03:00:55	chrome	10.10.10.10	UK	english	mobile	http://awebsite.com	1366x768	cat	2	cat-pic
+#mnop	09/11/2016 15:00	search	01:10:11	sarfari	10.10.10.10	USA	english	desktop	http://awebsite.com	1920x1080	monkey	3	monkey-pic
+#qrst	08/11/2016 21:00	click	02:30:50	chrome	10.10.10.10	UK	english	mobile	http://awebsite.com	1366x768	cat	2	cat-pic
+#uvwx	10/11/2016 09:45	hover	00:00:07	explorer	10.10.10.10	UK	english	mobile	http://awebsite.com	1920x1080	cat	2	cat-pic
+#yzab	10/11/2016 11:57	click	00:00:30	explorer	10.10.10.10	UK	english	desktop	http://awebsite.com	1366x768	dog	1	dog-pic
+#cdef	01/11/2016 10:10	search	00:02:15	chrome	10.10.10.10	USA	english	mobile	http://awebsite.com	1920x1080	monkey	3	monkey-pic
+#ghij	01/11/2016 23:59	hover	00:02:00	sarfari	10.10.10.10	UK	english	desktop	http://awebsite.com	1366x768	monkey	3	monkey-pic
+#klmn	10/10/2016 00:00	click	10:00:00	chrome	10.10.10.10	UK	english	mobile	http://awebsite.com	3840x2160	dog	1	dog-pic
