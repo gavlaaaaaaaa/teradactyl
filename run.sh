@@ -1,1 +1,1 @@
-spark-submit --master local[1] --driver-class-path /home/lewisdgavin/.m2/repository/mysql/mysql-connector-java/5.1.39/mysql-connector-java-5.1.39.jar --class com.cap.mllib target/mllib_spark-1.0-SNAPSHOT.jar
+spark-submit --master local[4] --driver-class-path /home/lewisdgavin/.m2/repository/mysql/mysql-connector-java/5.1.39/mysql-connector-java-5.1.39.jar --class com.cap.mllib target/mllib_spark-1.0-SNAPSHOT-jar-with-dependencies.jar 10.132.0.4:9092 key-event
